@@ -135,7 +135,7 @@ export const arMessages = {
   'editor.link-url-invalid': 'يرجى إدخال رابط صحيح',
   'editor.link-name-invalid': 'يرجى إدخال اسم صحيح للرابط',
 
-  'sidebar.ribbon-free': 'الخطة المجانية',
+  'sidebar.ribbon-free': ' ',
   'sidebar.ribbon-trial': 'الفترة التجريبية',
   'sidebar.ribbon-premium': 'الخطة المميزة',
   'sidebar.ribbon-unlimited': 'الخطة غير المحدودة',
@@ -558,7 +558,7 @@ export const arMessages = {
   'nav.tasks': 'مهامي',
   'nav.pricing': 'الأسعار',
   'nav.settings': 'الإعدادات',
-  'nav.free-plan': 'الخطة المجانية',
+  'nav.free-plan': ' ',
   'nav.customer-portal': 'اشتراكي',
   'nav.team': 'الفريق',
   'nav.integration': 'التكامل',
@@ -636,7 +636,7 @@ export const arMessages = {
   'wizard.prev': 'السابق',
   'wizard.skip': 'تخطي الخطوة',
   'wizard.finish': 'ابدأ بإنشاء مسارات العمل',
-  'wizard.get-started-free-plan': 'المتابعة بالخطة المجانية الدائمة',
+  'wizard.get-started-free-plan': ' ',
 
   'tasks.title': 'مهامي',
   'tasks.empty-list': 'لا توجد مهام',
